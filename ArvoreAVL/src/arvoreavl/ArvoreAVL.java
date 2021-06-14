@@ -19,7 +19,7 @@ public class ArvoreAVL {
     public static void main(String[] args) {
         
         AvlTree t = new AvlTree();
-        t.insert(1);
+        t.insert(1)
         t.insert(2);
         t.insert(3);
         t.insert(4);
